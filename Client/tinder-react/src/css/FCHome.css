@@ -1,0 +1,29 @@
+.logo{
+    height: 100px;
+    width: 230px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#homeImg{
+    margin-top : 70px;
+    margin-left: auto;
+    margin-right: 10px;
+    display: block;
+    
+}
+#startExploringBtn{
+    width: 200px;
+    height: 200px;
+    font-weight: bolder;
+    font-size: x-large;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
